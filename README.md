@@ -1,6 +1,5 @@
-- Yo, I'm gammacxy, just a beginner programmer thats slowly learning. I also make music and art and work on many things.
-- Im learning Rust, C#, and Lua, but mostly focusing on C#.
+- Yo, I'm gammacxy, pingas drudd cronk pingas pingas drudd!
+- Im learning to survive LULU.
 - I plan to start making games later on.
 
-System.Console.Writeline("Goodbye!")
 
